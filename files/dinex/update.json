@@ -1,0 +1,8 @@
+{
+  "packageManager": "github",
+  "name": "dinex",
+  "repo": "dinexcode/assets",
+  "files": {
+    "include": ["dinexbutton.css", "dinexbutton.min.css", "dinexfonticon.eot", "dinexfonticon.svg", "dinexfonticon.ttf", "dinexfonticon.woff"]
+  }
+}
